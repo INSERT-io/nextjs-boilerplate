@@ -1,5 +1,5 @@
 # ワークフローの名前を定義する
-name: check build_
+name: buildチェックするお
 
 # ワークフローの実行方法を定義する
 on:
